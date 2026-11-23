@@ -1,7 +1,2 @@
-- 👋 Hi, I’m @kendraoue
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning Vue.js, Bootstrap, C#, and much more!
-- 💞️ I’m looking to collaborate on anything! I want to learn as much as I can
-
-
+A curious and adaptable Full-Stack Developer who thrives on challenging work and continuous learning. A collaborative team player with strong cross-functional communication skills, comfortable working independently or alongside technical and business stakeholders, actively contributing to discussions and seeking feedback to improve solutions. Skilled at turning business requirements into maintainable software solutions through application modernization, performance optimization, CI/CD automation, and reliable production support.
 
